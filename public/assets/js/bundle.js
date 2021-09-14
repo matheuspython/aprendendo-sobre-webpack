@@ -1,0 +1,2 @@
+(()=>{function n(n,a){for(var e=0;e<a.length;e++){var o=a[e];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(n,o.key,o)}}var e=new(function(){function e(n,a){!function(n,a){if(!(n instanceof a))throw new TypeError("Cannot call a class as a function")}(this,e),this.a=n,this.b=a}var o,t;return o=e,(t=[{key:"aa",value:function(){console.log(2*a)}},{key:"bb",value:function(){[a,b].map((function(n){return console.log(n)}))}}])&&n(o.prototype,t),e}())("asdf","adfdsa");e.aa(),e.bb()})();
+//# sourceMappingURL=bundle.js.map
